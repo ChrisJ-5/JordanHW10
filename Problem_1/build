@@ -1,0 +1,3 @@
+#!/bin/bash
+
+g++ -Wall AnalogIn.cpp test_analog.cpp -o test_analog
